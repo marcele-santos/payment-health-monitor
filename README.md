@@ -6,6 +6,12 @@ Built for the Yuno engineering challenge: *The Lima Flash Sale Collapse*.
 
 **Stack:** TypeScript · Next.js 16 (App Router) · Upstash Redis · Vitest · Vercel
 
+> **Note for reviewers:** The seeded scenario is anchored to seed-time. If `/api/health` on the deployed instance returns all providers `critical` with `low_volume`/`low_auth_rate`, the dataset has aged past the 30min window. Refresh with:
+> ```bash
+> npm run seed -- https://payment-health-monitor.vercel.app
+> ```
+> The seed is deterministic (`seed=42`), so re-runs produce the same scenario with fresh timestamps.
+
 ---
 
 ## Problem
