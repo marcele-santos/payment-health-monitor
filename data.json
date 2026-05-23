@@ -1,0 +1,4395 @@
+[
+  {
+    "id": "txn_andes_pay_0077",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532234955
+  },
+  {
+    "id": "txn_localpay_brasil_0042",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532290818
+  },
+  {
+    "id": "txn_andes_pay_0083",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779532338744
+  },
+  {
+    "id": "txn_localpay_brasil_0027",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "stolen_card",
+    "timestamp": 1779532356602
+  },
+  {
+    "id": "txn_mexico_trust_0032",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532359543
+  },
+  {
+    "id": "txn_localpay_brasil_0067",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532383270
+  },
+  {
+    "id": "txn_localpay_brasil_0246",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532396807
+  },
+  {
+    "id": "txn_mexico_trust_0043",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532429928
+  },
+  {
+    "id": "txn_localpay_brasil_0065",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532458923
+  },
+  {
+    "id": "txn_mexico_trust_0053",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779532485952
+  },
+  {
+    "id": "txn_localpay_brasil_0141",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532495323
+  },
+  {
+    "id": "txn_andes_pay_0110",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532573295
+  },
+  {
+    "id": "txn_localpay_brasil_0054",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532575968
+  },
+  {
+    "id": "txn_localpay_brasil_0108",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779532581918
+  },
+  {
+    "id": "txn_mexico_trust_0000",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779532585700
+  },
+  {
+    "id": "txn_localpay_brasil_0242",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532601842
+  },
+  {
+    "id": "txn_mexico_trust_0038",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532609555
+  },
+  {
+    "id": "txn_localpay_brasil_0264",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779532665686
+  },
+  {
+    "id": "txn_localpay_brasil_0194",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532729073
+  },
+  {
+    "id": "txn_andes_pay_0135",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532747409
+  },
+  {
+    "id": "txn_localpay_brasil_0276",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779532761110
+  },
+  {
+    "id": "txn_andes_pay_0129",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779532767367
+  },
+  {
+    "id": "txn_localpay_brasil_0083",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779532776746
+  },
+  {
+    "id": "txn_mexico_trust_0058",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779532790290
+  },
+  {
+    "id": "txn_mexico_trust_0063",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779532870545
+  },
+  {
+    "id": "txn_localpay_brasil_0071",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779532986485
+  },
+  {
+    "id": "txn_andes_pay_0105",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533000714
+  },
+  {
+    "id": "txn_andes_pay_0150",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533058591
+  },
+  {
+    "id": "txn_localpay_brasil_0272",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533083351
+  },
+  {
+    "id": "txn_andes_pay_0058",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533125275
+  },
+  {
+    "id": "txn_mexico_trust_0017",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533127984
+  },
+  {
+    "id": "txn_andes_pay_0074",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533132759
+  },
+  {
+    "id": "txn_localpay_brasil_0044",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533148832
+  },
+  {
+    "id": "txn_localpay_brasil_0204",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533200928
+  },
+  {
+    "id": "txn_andes_pay_0134",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533243667
+  },
+  {
+    "id": "txn_localpay_brasil_0241",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533290309
+  },
+  {
+    "id": "txn_localpay_brasil_0097",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533294082
+  },
+  {
+    "id": "txn_localpay_brasil_0028",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533326870
+  },
+  {
+    "id": "txn_localpay_brasil_0176",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533358963
+  },
+  {
+    "id": "txn_localpay_brasil_0106",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533363996
+  },
+  {
+    "id": "txn_localpay_brasil_0206",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779533371950
+  },
+  {
+    "id": "txn_localpay_brasil_0193",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779533375643
+  },
+  {
+    "id": "txn_localpay_brasil_0133",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779533398630
+  },
+  {
+    "id": "txn_localpay_brasil_0190",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533401300
+  },
+  {
+    "id": "txn_localpay_brasil_0131",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533401481
+  },
+  {
+    "id": "txn_andes_pay_0112",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533406874
+  },
+  {
+    "id": "txn_localpay_brasil_0077",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533410038
+  },
+  {
+    "id": "txn_andes_pay_0047",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533420585
+  },
+  {
+    "id": "txn_localpay_brasil_0253",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533430716
+  },
+  {
+    "id": "txn_andes_pay_0132",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533444220
+  },
+  {
+    "id": "txn_localpay_brasil_0239",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533445900
+  },
+  {
+    "id": "txn_localpay_brasil_0091",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779533466305
+  },
+  {
+    "id": "txn_andes_pay_0050",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533469833
+  },
+  {
+    "id": "txn_localpay_brasil_0210",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779533471250
+  },
+  {
+    "id": "txn_andes_pay_0094",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533475939
+  },
+  {
+    "id": "txn_localpay_brasil_0268",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533477478
+  },
+  {
+    "id": "txn_localpay_brasil_0270",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533478707
+  },
+  {
+    "id": "txn_mexico_trust_0018",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779533479292
+  },
+  {
+    "id": "txn_localpay_brasil_0063",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533485440
+  },
+  {
+    "id": "txn_localpay_brasil_0232",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779533493876
+  },
+  {
+    "id": "txn_andes_pay_0116",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533511631
+  },
+  {
+    "id": "txn_localpay_brasil_0173",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "stolen_card",
+    "timestamp": 1779533512798
+  },
+  {
+    "id": "txn_andes_pay_0153",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533519738
+  },
+  {
+    "id": "txn_andes_pay_0024",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779533543347
+  },
+  {
+    "id": "txn_localpay_brasil_0214",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533544392
+  },
+  {
+    "id": "txn_andes_pay_0056",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533551903
+  },
+  {
+    "id": "txn_localpay_brasil_0003",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533567261
+  },
+  {
+    "id": "txn_andes_pay_0113",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533579658
+  },
+  {
+    "id": "txn_localpay_brasil_0159",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533580595
+  },
+  {
+    "id": "txn_localpay_brasil_0202",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533587938
+  },
+  {
+    "id": "txn_mexico_trust_0040",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533607230
+  },
+  {
+    "id": "txn_andes_pay_0071",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533610311
+  },
+  {
+    "id": "txn_andes_pay_0123",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533616776
+  },
+  {
+    "id": "txn_andes_pay_0114",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533623283
+  },
+  {
+    "id": "txn_localpay_brasil_0078",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533634276
+  },
+  {
+    "id": "txn_andes_pay_0054",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533638164
+  },
+  {
+    "id": "txn_localpay_brasil_0167",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533638480
+  },
+  {
+    "id": "txn_localpay_brasil_0034",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533642385
+  },
+  {
+    "id": "txn_mexico_trust_0065",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533647956
+  },
+  {
+    "id": "txn_localpay_brasil_0274",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533650474
+  },
+  {
+    "id": "txn_mexico_trust_0001",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779533662462
+  },
+  {
+    "id": "txn_localpay_brasil_0151",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779533667954
+  },
+  {
+    "id": "txn_andes_pay_0076",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533697513
+  },
+  {
+    "id": "txn_localpay_brasil_0147",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533727839
+  },
+  {
+    "id": "txn_localpay_brasil_0203",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533740226
+  },
+  {
+    "id": "txn_localpay_brasil_0140",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533743194
+  },
+  {
+    "id": "txn_localpay_brasil_0229",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533755591
+  },
+  {
+    "id": "txn_localpay_brasil_0119",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533758985
+  },
+  {
+    "id": "txn_mexico_trust_0074",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533768729
+  },
+  {
+    "id": "txn_localpay_brasil_0186",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533769015
+  },
+  {
+    "id": "txn_andes_pay_0064",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533769817
+  },
+  {
+    "id": "txn_andes_pay_0069",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533770179
+  },
+  {
+    "id": "txn_localpay_brasil_0221",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779533770692
+  },
+  {
+    "id": "txn_localpay_brasil_0153",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533776724
+  },
+  {
+    "id": "txn_localpay_brasil_0152",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779533777997
+  },
+  {
+    "id": "txn_localpay_brasil_0208",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533781177
+  },
+  {
+    "id": "txn_localpay_brasil_0269",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779533784080
+  },
+  {
+    "id": "txn_andes_pay_0106",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779533790460
+  },
+  {
+    "id": "txn_mexico_trust_0014",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533794047
+  },
+  {
+    "id": "txn_andes_pay_0070",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533799351
+  },
+  {
+    "id": "txn_andes_pay_0062",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533800083
+  },
+  {
+    "id": "txn_localpay_brasil_0051",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533800943
+  },
+  {
+    "id": "txn_mexico_trust_0052",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533819408
+  },
+  {
+    "id": "txn_mexico_trust_0061",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "declined",
+    "declineReason": "stolen_card",
+    "timestamp": 1779533820815
+  },
+  {
+    "id": "txn_andes_pay_0018",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533822517
+  },
+  {
+    "id": "txn_localpay_brasil_0116",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779533826790
+  },
+  {
+    "id": "txn_andes_pay_0055",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779533833864
+  },
+  {
+    "id": "txn_andes_pay_0009",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779533841947
+  },
+  {
+    "id": "txn_andes_pay_0103",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533856978
+  },
+  {
+    "id": "txn_localpay_brasil_0231",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779533862694
+  },
+  {
+    "id": "txn_localpay_brasil_0072",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779533876141
+  },
+  {
+    "id": "txn_andes_pay_0014",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533876579
+  },
+  {
+    "id": "txn_mexico_trust_0076",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779533882357
+  },
+  {
+    "id": "txn_andes_pay_0022",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533888487
+  },
+  {
+    "id": "txn_mexico_trust_0011",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533890366
+  },
+  {
+    "id": "txn_localpay_brasil_0181",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779533895275
+  },
+  {
+    "id": "txn_andes_pay_0023",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533900255
+  },
+  {
+    "id": "txn_mexico_trust_0027",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533915533
+  },
+  {
+    "id": "txn_mexico_trust_0075",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533923617
+  },
+  {
+    "id": "txn_localpay_brasil_0002",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533946484
+  },
+  {
+    "id": "txn_andes_pay_0048",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "approved",
+    "timestamp": 1779533948374
+  },
+  {
+    "id": "txn_localpay_brasil_0081",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533954489
+  },
+  {
+    "id": "txn_localpay_brasil_0175",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533961660
+  },
+  {
+    "id": "txn_mexico_trust_0073",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533965999
+  },
+  {
+    "id": "txn_colombia_pagos_0003",
+    "providerId": "colombia_pagos",
+    "country": "CO",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533969654
+  },
+  {
+    "id": "txn_localpay_brasil_0224",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779533972533
+  },
+  {
+    "id": "txn_andes_pay_0041",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533982259
+  },
+  {
+    "id": "txn_andes_pay_0099",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779533985293
+  },
+  {
+    "id": "txn_localpay_brasil_0168",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779533999617
+  },
+  {
+    "id": "txn_andes_pay_0046",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534035722
+  },
+  {
+    "id": "txn_andes_pay_0142",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534038426
+  },
+  {
+    "id": "txn_localpay_brasil_0144",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534047520
+  },
+  {
+    "id": "txn_mexico_trust_0028",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534048549
+  },
+  {
+    "id": "txn_localpay_brasil_0057",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534064058
+  },
+  {
+    "id": "txn_localpay_brasil_0005",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534069117
+  },
+  {
+    "id": "txn_localpay_brasil_0271",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534070053
+  },
+  {
+    "id": "txn_localpay_brasil_0154",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534122230
+  },
+  {
+    "id": "txn_localpay_brasil_0062",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534125798
+  },
+  {
+    "id": "txn_mexico_trust_0024",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534140757
+  },
+  {
+    "id": "txn_andes_pay_0057",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534144267
+  },
+  {
+    "id": "txn_localpay_brasil_0013",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534150444
+  },
+  {
+    "id": "txn_localpay_brasil_0069",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534153907
+  },
+  {
+    "id": "txn_localpay_brasil_0092",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534155943
+  },
+  {
+    "id": "txn_localpay_brasil_0236",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534168042
+  },
+  {
+    "id": "txn_mexico_trust_0035",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534184334
+  },
+  {
+    "id": "txn_andes_pay_0152",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779534207775
+  },
+  {
+    "id": "txn_andes_pay_0102",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534211715
+  },
+  {
+    "id": "txn_andes_pay_0121",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534232163
+  },
+  {
+    "id": "txn_mexico_trust_0002",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534233328
+  },
+  {
+    "id": "txn_mexico_trust_0029",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534239148
+  },
+  {
+    "id": "txn_andes_pay_0085",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534242268
+  },
+  {
+    "id": "txn_mexico_trust_0021",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534248400
+  },
+  {
+    "id": "txn_andes_pay_0010",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534253861
+  },
+  {
+    "id": "txn_andes_pay_0063",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534270400
+  },
+  {
+    "id": "txn_mexico_trust_0026",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779534272295
+  },
+  {
+    "id": "txn_localpay_brasil_0263",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534273894
+  },
+  {
+    "id": "txn_localpay_brasil_0032",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534298251
+  },
+  {
+    "id": "txn_andes_pay_0088",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534299319
+  },
+  {
+    "id": "txn_localpay_brasil_0170",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534312646
+  },
+  {
+    "id": "txn_colombia_pagos_0000",
+    "providerId": "colombia_pagos",
+    "country": "CO",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534315280
+  },
+  {
+    "id": "txn_mexico_trust_0059",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534317209
+  },
+  {
+    "id": "txn_localpay_brasil_0262",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534325137
+  },
+  {
+    "id": "txn_mexico_trust_0015",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534350258
+  },
+  {
+    "id": "txn_mexico_trust_0003",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534379992
+  },
+  {
+    "id": "txn_localpay_brasil_0018",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534402834
+  },
+  {
+    "id": "txn_localpay_brasil_0121",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534421453
+  },
+  {
+    "id": "txn_localpay_brasil_0061",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534429135
+  },
+  {
+    "id": "txn_andes_pay_0081",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "approved",
+    "timestamp": 1779534436476
+  },
+  {
+    "id": "txn_andes_pay_0111",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534437173
+  },
+  {
+    "id": "txn_andes_pay_0040",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779534441609
+  },
+  {
+    "id": "txn_andes_pay_0025",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534453467
+  },
+  {
+    "id": "txn_andes_pay_0001",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534456746
+  },
+  {
+    "id": "txn_andes_pay_0136",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534466985
+  },
+  {
+    "id": "txn_mexico_trust_0050",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534475905
+  },
+  {
+    "id": "txn_localpay_brasil_0137",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779534483325
+  },
+  {
+    "id": "txn_mexico_trust_0056",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534506677
+  },
+  {
+    "id": "txn_mexico_trust_0066",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779534507099
+  },
+  {
+    "id": "txn_andes_pay_0059",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534508464
+  },
+  {
+    "id": "txn_mexico_trust_0023",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779534519201
+  },
+  {
+    "id": "txn_localpay_brasil_0205",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534524679
+  },
+  {
+    "id": "txn_colombia_pagos_0002",
+    "providerId": "colombia_pagos",
+    "country": "CO",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534528868
+  },
+  {
+    "id": "txn_localpay_brasil_0030",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534567103
+  },
+  {
+    "id": "txn_localpay_brasil_0155",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534574132
+  },
+  {
+    "id": "txn_andes_pay_0006",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534575301
+  },
+  {
+    "id": "txn_localpay_brasil_0056",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534579461
+  },
+  {
+    "id": "txn_mexico_trust_0062",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534583236
+  },
+  {
+    "id": "txn_localpay_brasil_0073",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534606668
+  },
+  {
+    "id": "txn_localpay_brasil_0165",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534622879
+  },
+  {
+    "id": "txn_localpay_brasil_0068",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534631606
+  },
+  {
+    "id": "txn_localpay_brasil_0130",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534636353
+  },
+  {
+    "id": "txn_localpay_brasil_0085",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534640404
+  },
+  {
+    "id": "txn_andes_pay_0087",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534685300
+  },
+  {
+    "id": "txn_mexico_trust_0010",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534718189
+  },
+  {
+    "id": "txn_mexico_trust_0007",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534725970
+  },
+  {
+    "id": "txn_localpay_brasil_0156",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534741209
+  },
+  {
+    "id": "txn_localpay_brasil_0012",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534742242
+  },
+  {
+    "id": "txn_andes_pay_0012",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534748451
+  },
+  {
+    "id": "txn_localpay_brasil_0197",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534760934
+  },
+  {
+    "id": "txn_localpay_brasil_0087",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534764962
+  },
+  {
+    "id": "txn_andes_pay_0122",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779534771766
+  },
+  {
+    "id": "txn_localpay_brasil_0226",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534774196
+  },
+  {
+    "id": "txn_andes_pay_0031",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534776987
+  },
+  {
+    "id": "txn_andes_pay_0065",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534795767
+  },
+  {
+    "id": "txn_andes_pay_0128",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779534796799
+  },
+  {
+    "id": "txn_localpay_brasil_0066",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534849597
+  },
+  {
+    "id": "txn_andes_pay_0093",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534861406
+  },
+  {
+    "id": "txn_mexico_trust_0071",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779534897083
+  },
+  {
+    "id": "txn_localpay_brasil_0125",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534898400
+  },
+  {
+    "id": "txn_andes_pay_0107",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534900302
+  },
+  {
+    "id": "txn_localpay_brasil_0247",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534904985
+  },
+  {
+    "id": "txn_andes_pay_0016",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534908803
+  },
+  {
+    "id": "txn_andes_pay_0084",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534917717
+  },
+  {
+    "id": "txn_andes_pay_0151",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779534944205
+  },
+  {
+    "id": "txn_andes_pay_0124",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534948863
+  },
+  {
+    "id": "txn_localpay_brasil_0120",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534953869
+  },
+  {
+    "id": "txn_mexico_trust_0064",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779534974498
+  },
+  {
+    "id": "txn_localpay_brasil_0029",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779534988559
+  },
+  {
+    "id": "txn_andes_pay_0130",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779535005785
+  },
+  {
+    "id": "txn_localpay_brasil_0254",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779535015195
+  },
+  {
+    "id": "txn_andes_pay_0035",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535021190
+  },
+  {
+    "id": "txn_localpay_brasil_0211",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535028752
+  },
+  {
+    "id": "txn_mexico_trust_0009",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535053891
+  },
+  {
+    "id": "txn_localpay_brasil_0110",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535068172
+  },
+  {
+    "id": "txn_localpay_brasil_0180",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779535080046
+  },
+  {
+    "id": "txn_localpay_brasil_0172",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535106423
+  },
+  {
+    "id": "txn_andes_pay_0052",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779535109165
+  },
+  {
+    "id": "txn_andes_pay_0005",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535128110
+  },
+  {
+    "id": "txn_localpay_brasil_0112",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535135867
+  },
+  {
+    "id": "txn_localpay_brasil_0234",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535143131
+  },
+  {
+    "id": "txn_localpay_brasil_0222",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535146299
+  },
+  {
+    "id": "txn_andes_pay_0021",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535165014
+  },
+  {
+    "id": "txn_localpay_brasil_0249",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535176688
+  },
+  {
+    "id": "txn_localpay_brasil_0064",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535179127
+  },
+  {
+    "id": "txn_andes_pay_0140",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535183968
+  },
+  {
+    "id": "txn_andes_pay_0148",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535195845
+  },
+  {
+    "id": "txn_mexico_trust_0079",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535206136
+  },
+  {
+    "id": "txn_localpay_brasil_0251",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535236850
+  },
+  {
+    "id": "txn_localpay_brasil_0076",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779535254750
+  },
+  {
+    "id": "txn_localpay_brasil_0227",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535255780
+  },
+  {
+    "id": "txn_localpay_brasil_0015",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535271764
+  },
+  {
+    "id": "txn_andes_pay_0020",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779535283941
+  },
+  {
+    "id": "txn_andes_pay_0101",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779535284230
+  },
+  {
+    "id": "txn_localpay_brasil_0049",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535294797
+  },
+  {
+    "id": "txn_localpay_brasil_0143",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535304995
+  },
+  {
+    "id": "txn_localpay_brasil_0035",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779535310442
+  },
+  {
+    "id": "txn_andes_pay_0028",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535345137
+  },
+  {
+    "id": "txn_mexico_trust_0067",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779535360487
+  },
+  {
+    "id": "txn_localpay_brasil_0040",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779535364762
+  },
+  {
+    "id": "txn_localpay_brasil_0259",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535395306
+  },
+  {
+    "id": "txn_localpay_brasil_0255",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779535408097
+  },
+  {
+    "id": "txn_andes_pay_0036",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535412369
+  },
+  {
+    "id": "txn_localpay_brasil_0279",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535452256
+  },
+  {
+    "id": "txn_localpay_brasil_0047",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535452266
+  },
+  {
+    "id": "txn_andes_pay_0043",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535452983
+  },
+  {
+    "id": "txn_localpay_brasil_0166",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535458476
+  },
+  {
+    "id": "txn_localpay_brasil_0225",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535462889
+  },
+  {
+    "id": "txn_andes_pay_0079",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779535469150
+  },
+  {
+    "id": "txn_localpay_brasil_0195",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535478185
+  },
+  {
+    "id": "txn_localpay_brasil_0104",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535492229
+  },
+  {
+    "id": "txn_andes_pay_0100",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535497665
+  },
+  {
+    "id": "txn_localpay_brasil_0043",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535504017
+  },
+  {
+    "id": "txn_localpay_brasil_0103",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535508775
+  },
+  {
+    "id": "txn_localpay_brasil_0129",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535515268
+  },
+  {
+    "id": "txn_localpay_brasil_0257",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535526892
+  },
+  {
+    "id": "txn_colombia_pagos_0004",
+    "providerId": "colombia_pagos",
+    "country": "CO",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535532030
+  },
+  {
+    "id": "txn_localpay_brasil_0244",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779535544044
+  },
+  {
+    "id": "txn_andes_pay_0104",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535569016
+  },
+  {
+    "id": "txn_localpay_brasil_0192",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535576077
+  },
+  {
+    "id": "txn_andes_pay_0097",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535583810
+  },
+  {
+    "id": "txn_mexico_trust_0008",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535590522
+  },
+  {
+    "id": "txn_andes_pay_0072",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535607743
+  },
+  {
+    "id": "txn_localpay_brasil_0216",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779535608867
+  },
+  {
+    "id": "txn_localpay_brasil_0219",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535609274
+  },
+  {
+    "id": "txn_localpay_brasil_0171",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535613540
+  },
+  {
+    "id": "txn_localpay_brasil_0090",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535614896
+  },
+  {
+    "id": "txn_localpay_brasil_0148",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779535616842
+  },
+  {
+    "id": "txn_mexico_trust_0081",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535618729
+  },
+  {
+    "id": "txn_localpay_brasil_0238",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535621476
+  },
+  {
+    "id": "txn_andes_pay_0032",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "stolen_card",
+    "timestamp": 1779535628719
+  },
+  {
+    "id": "txn_andes_pay_0141",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535629400
+  },
+  {
+    "id": "txn_mexico_trust_0046",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535632106
+  },
+  {
+    "id": "txn_localpay_brasil_0086",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779535640318
+  },
+  {
+    "id": "txn_andes_pay_0019",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535651230
+  },
+  {
+    "id": "txn_localpay_brasil_0007",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535658761
+  },
+  {
+    "id": "txn_localpay_brasil_0025",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535669579
+  },
+  {
+    "id": "txn_localpay_brasil_0178",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535670367
+  },
+  {
+    "id": "txn_localpay_brasil_0243",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535675885
+  },
+  {
+    "id": "txn_localpay_brasil_0196",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779535701206
+  },
+  {
+    "id": "txn_andes_pay_0045",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535722396
+  },
+  {
+    "id": "txn_localpay_brasil_0215",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535727372
+  },
+  {
+    "id": "txn_localpay_brasil_0048",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535780134
+  },
+  {
+    "id": "txn_localpay_brasil_0075",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535783575
+  },
+  {
+    "id": "txn_localpay_brasil_0117",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535788541
+  },
+  {
+    "id": "txn_localpay_brasil_0038",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779535794140
+  },
+  {
+    "id": "txn_localpay_brasil_0275",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535802482
+  },
+  {
+    "id": "txn_localpay_brasil_0267",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535802999
+  },
+  {
+    "id": "txn_localpay_brasil_0009",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535804607
+  },
+  {
+    "id": "txn_localpay_brasil_0084",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535809683
+  },
+  {
+    "id": "txn_mexico_trust_0031",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535818776
+  },
+  {
+    "id": "txn_localpay_brasil_0217",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535824211
+  },
+  {
+    "id": "txn_localpay_brasil_0258",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535832140
+  },
+  {
+    "id": "txn_localpay_brasil_0256",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535845829
+  },
+  {
+    "id": "txn_andes_pay_0011",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535854364
+  },
+  {
+    "id": "txn_localpay_brasil_0223",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535856365
+  },
+  {
+    "id": "txn_localpay_brasil_0200",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535863101
+  },
+  {
+    "id": "txn_localpay_brasil_0139",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779535867328
+  },
+  {
+    "id": "txn_localpay_brasil_0134",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535910755
+  },
+  {
+    "id": "txn_localpay_brasil_0109",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535919419
+  },
+  {
+    "id": "txn_localpay_brasil_0135",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535922607
+  },
+  {
+    "id": "txn_mexico_trust_0036",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535926501
+  },
+  {
+    "id": "txn_mexico_trust_0016",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779535927553
+  },
+  {
+    "id": "txn_localpay_brasil_0001",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779535938500
+  },
+  {
+    "id": "txn_andes_pay_0042",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779535940143
+  },
+  {
+    "id": "txn_localpay_brasil_0142",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535941430
+  },
+  {
+    "id": "txn_localpay_brasil_0053",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535941824
+  },
+  {
+    "id": "txn_localpay_brasil_0235",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535944142
+  },
+  {
+    "id": "txn_mexico_trust_0070",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779535956900
+  },
+  {
+    "id": "txn_localpay_brasil_0006",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779535965450
+  },
+  {
+    "id": "txn_mexico_trust_0041",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535970697
+  },
+  {
+    "id": "txn_andes_pay_0126",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535977162
+  },
+  {
+    "id": "txn_andes_pay_0026",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779535992276
+  },
+  {
+    "id": "txn_andes_pay_0082",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536019339
+  },
+  {
+    "id": "txn_andes_pay_0038",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536020391
+  },
+  {
+    "id": "txn_andes_pay_0147",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536026146
+  },
+  {
+    "id": "txn_andes_pay_0002",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536028915
+  },
+  {
+    "id": "txn_andes_pay_0096",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536032664
+  },
+  {
+    "id": "txn_andes_pay_0119",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779536050958
+  },
+  {
+    "id": "txn_localpay_brasil_0157",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536062689
+  },
+  {
+    "id": "txn_localpay_brasil_0017",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536072568
+  },
+  {
+    "id": "txn_mexico_trust_0048",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536073496
+  },
+  {
+    "id": "txn_localpay_brasil_0059",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536078336
+  },
+  {
+    "id": "txn_localpay_brasil_0031",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536080840
+  },
+  {
+    "id": "txn_localpay_brasil_0107",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536082494
+  },
+  {
+    "id": "txn_localpay_brasil_0233",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536092142
+  },
+  {
+    "id": "txn_andes_pay_0098",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536092257
+  },
+  {
+    "id": "txn_localpay_brasil_0266",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536099568
+  },
+  {
+    "id": "txn_localpay_brasil_0169",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536103672
+  },
+  {
+    "id": "txn_andes_pay_0015",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536103919
+  },
+  {
+    "id": "txn_localpay_brasil_0218",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536105616
+  },
+  {
+    "id": "txn_mexico_trust_0068",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536125515
+  },
+  {
+    "id": "txn_andes_pay_0051",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536128931
+  },
+  {
+    "id": "txn_andes_pay_0095",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536148064
+  },
+  {
+    "id": "txn_andes_pay_0080",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536160754
+  },
+  {
+    "id": "txn_localpay_brasil_0160",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536168461
+  },
+  {
+    "id": "txn_localpay_brasil_0261",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536179766
+  },
+  {
+    "id": "txn_andes_pay_0108",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779536180541
+  },
+  {
+    "id": "txn_localpay_brasil_0055",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536186243
+  },
+  {
+    "id": "txn_andes_pay_0073",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536186842
+  },
+  {
+    "id": "txn_mexico_trust_0005",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536194748
+  },
+  {
+    "id": "txn_localpay_brasil_0228",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536199031
+  },
+  {
+    "id": "txn_andes_pay_0118",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536228001
+  },
+  {
+    "id": "txn_localpay_brasil_0093",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779536232593
+  },
+  {
+    "id": "txn_localpay_brasil_0183",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536234664
+  },
+  {
+    "id": "txn_localpay_brasil_0058",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536240493
+  },
+  {
+    "id": "txn_localpay_brasil_0045",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536242134
+  },
+  {
+    "id": "txn_localpay_brasil_0122",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779536253322
+  },
+  {
+    "id": "txn_localpay_brasil_0230",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536263077
+  },
+  {
+    "id": "txn_mexico_trust_0019",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779536263625
+  },
+  {
+    "id": "txn_localpay_brasil_0245",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536290048
+  },
+  {
+    "id": "txn_colombia_pagos_0001",
+    "providerId": "colombia_pagos",
+    "country": "CO",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536301127
+  },
+  {
+    "id": "txn_mexico_trust_0033",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536312472
+  },
+  {
+    "id": "txn_andes_pay_0149",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536342946
+  },
+  {
+    "id": "txn_andes_pay_0154",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779536367157
+  },
+  {
+    "id": "txn_localpay_brasil_0123",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536375729
+  },
+  {
+    "id": "txn_localpay_brasil_0124",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536381111
+  },
+  {
+    "id": "txn_localpay_brasil_0070",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779536408897
+  },
+  {
+    "id": "txn_localpay_brasil_0188",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536415965
+  },
+  {
+    "id": "txn_andes_pay_0089",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536429526
+  },
+  {
+    "id": "txn_localpay_brasil_0174",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779536429751
+  },
+  {
+    "id": "txn_localpay_brasil_0094",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536431547
+  },
+  {
+    "id": "txn_localpay_brasil_0114",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779536440653
+  },
+  {
+    "id": "txn_localpay_brasil_0105",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536440811
+  },
+  {
+    "id": "txn_localpay_brasil_0008",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536443486
+  },
+  {
+    "id": "txn_mexico_trust_0020",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536447157
+  },
+  {
+    "id": "txn_andes_pay_0117",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536467494
+  },
+  {
+    "id": "txn_localpay_brasil_0201",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536473199
+  },
+  {
+    "id": "txn_localpay_brasil_0000",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536474981
+  },
+  {
+    "id": "txn_andes_pay_0033",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536481427
+  },
+  {
+    "id": "txn_mexico_trust_0006",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779536481648
+  },
+  {
+    "id": "txn_localpay_brasil_0240",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536482073
+  },
+  {
+    "id": "txn_andes_pay_0000",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536483421
+  },
+  {
+    "id": "txn_localpay_brasil_0118",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779536492157
+  },
+  {
+    "id": "txn_andes_pay_0090",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536528702
+  },
+  {
+    "id": "txn_localpay_brasil_0096",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779536539857
+  },
+  {
+    "id": "txn_andes_pay_0068",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779536542006
+  },
+  {
+    "id": "txn_localpay_brasil_0212",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536583262
+  },
+  {
+    "id": "txn_mexico_trust_0072",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536594406
+  },
+  {
+    "id": "txn_localpay_brasil_0146",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536608383
+  },
+  {
+    "id": "txn_localpay_brasil_0128",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536615834
+  },
+  {
+    "id": "txn_localpay_brasil_0101",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536617400
+  },
+  {
+    "id": "txn_localpay_brasil_0198",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536626681
+  },
+  {
+    "id": "txn_localpay_brasil_0158",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536639506
+  },
+  {
+    "id": "txn_andes_pay_0053",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536649273
+  },
+  {
+    "id": "txn_localpay_brasil_0041",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536653808
+  },
+  {
+    "id": "txn_localpay_brasil_0179",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779536663407
+  },
+  {
+    "id": "txn_andes_pay_0034",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536666402
+  },
+  {
+    "id": "txn_andes_pay_0115",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536684985
+  },
+  {
+    "id": "txn_andes_pay_0017",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536686519
+  },
+  {
+    "id": "txn_andes_pay_0086",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536690975
+  },
+  {
+    "id": "txn_localpay_brasil_0060",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779536694222
+  },
+  {
+    "id": "txn_localpay_brasil_0039",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536694653
+  },
+  {
+    "id": "txn_andes_pay_0067",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779536697988
+  },
+  {
+    "id": "txn_localpay_brasil_0024",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536720933
+  },
+  {
+    "id": "txn_mexico_trust_0030",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779536721017
+  },
+  {
+    "id": "txn_localpay_brasil_0082",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779536774167
+  },
+  {
+    "id": "txn_mexico_trust_0054",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536788926
+  },
+  {
+    "id": "txn_andes_pay_0145",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536797618
+  },
+  {
+    "id": "txn_mexico_trust_0013",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536814032
+  },
+  {
+    "id": "txn_localpay_brasil_0162",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779536816121
+  },
+  {
+    "id": "txn_localpay_brasil_0126",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536820173
+  },
+  {
+    "id": "txn_mexico_trust_0055",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536824180
+  },
+  {
+    "id": "txn_localpay_brasil_0111",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536846194
+  },
+  {
+    "id": "txn_localpay_brasil_0163",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779536849707
+  },
+  {
+    "id": "txn_localpay_brasil_0021",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536860632
+  },
+  {
+    "id": "txn_localpay_brasil_0099",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536868262
+  },
+  {
+    "id": "txn_localpay_brasil_0010",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536898024
+  },
+  {
+    "id": "txn_localpay_brasil_0079",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536898219
+  },
+  {
+    "id": "txn_localpay_brasil_0189",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536898768
+  },
+  {
+    "id": "txn_localpay_brasil_0265",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536907266
+  },
+  {
+    "id": "txn_localpay_brasil_0052",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536907677
+  },
+  {
+    "id": "txn_localpay_brasil_0185",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536909171
+  },
+  {
+    "id": "txn_mexico_trust_0060",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536922989
+  },
+  {
+    "id": "txn_andes_pay_0029",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779536924183
+  },
+  {
+    "id": "txn_localpay_brasil_0252",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779536926357
+  },
+  {
+    "id": "txn_localpay_brasil_0088",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779536941175
+  },
+  {
+    "id": "txn_localpay_brasil_0046",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536944803
+  },
+  {
+    "id": "txn_andes_pay_0060",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779536951666
+  },
+  {
+    "id": "txn_localpay_brasil_0250",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779536971663
+  },
+  {
+    "id": "txn_andes_pay_0143",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779536994708
+  },
+  {
+    "id": "txn_localpay_brasil_0115",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779537137885
+  },
+  {
+    "id": "txn_localpay_brasil_0033",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537150934
+  },
+  {
+    "id": "txn_andes_pay_0131",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537163949
+  },
+  {
+    "id": "txn_localpay_brasil_0020",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537184810
+  },
+  {
+    "id": "txn_localpay_brasil_0127",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779537185014
+  },
+  {
+    "id": "txn_localpay_brasil_0026",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537247297
+  },
+  {
+    "id": "txn_andes_pay_0146",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537311427
+  },
+  {
+    "id": "txn_localpay_brasil_0207",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537324878
+  },
+  {
+    "id": "txn_localpay_brasil_0161",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537362183
+  },
+  {
+    "id": "txn_localpay_brasil_0100",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537364272
+  },
+  {
+    "id": "txn_andes_pay_0044",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779537376362
+  },
+  {
+    "id": "txn_localpay_brasil_0016",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537398814
+  },
+  {
+    "id": "txn_andes_pay_0003",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779537402310
+  },
+  {
+    "id": "txn_localpay_brasil_0113",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779537421908
+  },
+  {
+    "id": "txn_mexico_trust_0012",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779537489921
+  },
+  {
+    "id": "txn_localpay_brasil_0220",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537496417
+  },
+  {
+    "id": "txn_localpay_brasil_0037",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537501102
+  },
+  {
+    "id": "txn_localpay_brasil_0080",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779537511859
+  },
+  {
+    "id": "txn_localpay_brasil_0277",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537537269
+  },
+  {
+    "id": "txn_mexico_trust_0045",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537561722
+  },
+  {
+    "id": "txn_mexico_trust_0080",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537571511
+  },
+  {
+    "id": "txn_localpay_brasil_0187",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537575008
+  },
+  {
+    "id": "txn_andes_pay_0066",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779537575286
+  },
+  {
+    "id": "txn_localpay_brasil_0191",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537590065
+  },
+  {
+    "id": "txn_mexico_trust_0025",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779537614328
+  },
+  {
+    "id": "txn_localpay_brasil_0149",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537659636
+  },
+  {
+    "id": "txn_mexico_trust_0042",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779537676640
+  },
+  {
+    "id": "txn_mexico_trust_0039",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537691162
+  },
+  {
+    "id": "txn_andes_pay_0075",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537719475
+  },
+  {
+    "id": "txn_localpay_brasil_0098",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "do_not_honor",
+    "timestamp": 1779537734872
+  },
+  {
+    "id": "txn_localpay_brasil_0074",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537897072
+  },
+  {
+    "id": "txn_mexico_trust_0037",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779537931864
+  },
+  {
+    "id": "txn_mexico_trust_0049",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537949544
+  },
+  {
+    "id": "txn_andes_pay_0127",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537956681
+  },
+  {
+    "id": "txn_andes_pay_0030",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779537961211
+  },
+  {
+    "id": "txn_localpay_brasil_0036",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537961700
+  },
+  {
+    "id": "txn_andes_pay_0013",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779537978551
+  },
+  {
+    "id": "txn_localpay_brasil_0089",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779537979578
+  },
+  {
+    "id": "txn_localpay_brasil_0177",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779537983335
+  },
+  {
+    "id": "txn_mexico_trust_0044",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538031668
+  },
+  {
+    "id": "txn_localpay_brasil_0014",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "fraud_suspected",
+    "timestamp": 1779538064654
+  },
+  {
+    "id": "txn_localpay_brasil_0019",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779538065079
+  },
+  {
+    "id": "txn_localpay_brasil_0209",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779538065918
+  },
+  {
+    "id": "txn_andes_pay_0092",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "approved",
+    "timestamp": 1779538082009
+  },
+  {
+    "id": "txn_mexico_trust_0078",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538114348
+  },
+  {
+    "id": "txn_andes_pay_0027",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538134311
+  },
+  {
+    "id": "txn_localpay_brasil_0278",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538153662
+  },
+  {
+    "id": "txn_andes_pay_0137",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538174949
+  },
+  {
+    "id": "txn_localpay_brasil_0004",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538175863
+  },
+  {
+    "id": "txn_mexico_trust_0077",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538280831
+  },
+  {
+    "id": "txn_andes_pay_0004",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538317014
+  },
+  {
+    "id": "txn_mexico_trust_0057",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779538328722
+  },
+  {
+    "id": "txn_localpay_brasil_0023",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538365689
+  },
+  {
+    "id": "txn_localpay_brasil_0164",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538378972
+  },
+  {
+    "id": "txn_localpay_brasil_0182",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538381796
+  },
+  {
+    "id": "txn_mexico_trust_0051",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779538419119
+  },
+  {
+    "id": "txn_localpay_brasil_0213",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538438039
+  },
+  {
+    "id": "txn_mexico_trust_0034",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538439614
+  },
+  {
+    "id": "txn_localpay_brasil_0102",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779538449062
+  },
+  {
+    "id": "txn_mexico_trust_0069",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779538457338
+  },
+  {
+    "id": "txn_localpay_brasil_0184",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "pix",
+    "status": "approved",
+    "timestamp": 1779538466123
+  },
+  {
+    "id": "txn_mexico_trust_0047",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "oxxo",
+    "status": "approved",
+    "timestamp": 1779538469221
+  },
+  {
+    "id": "txn_andes_pay_0007",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538489420
+  },
+  {
+    "id": "txn_localpay_brasil_0138",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538492262
+  },
+  {
+    "id": "txn_localpay_brasil_0022",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779538532561
+  },
+  {
+    "id": "txn_localpay_brasil_0150",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "invalid_card",
+    "timestamp": 1779538536036
+  },
+  {
+    "id": "txn_andes_pay_0109",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538554417
+  },
+  {
+    "id": "txn_andes_pay_0037",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779538623019
+  },
+  {
+    "id": "txn_andes_pay_0144",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538689400
+  },
+  {
+    "id": "txn_localpay_brasil_0095",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538702606
+  },
+  {
+    "id": "txn_localpay_brasil_0136",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779538771898
+  },
+  {
+    "id": "txn_andes_pay_0008",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779538785211
+  },
+  {
+    "id": "txn_andes_pay_0039",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538794192
+  },
+  {
+    "id": "txn_localpay_brasil_0237",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538871924
+  },
+  {
+    "id": "txn_localpay_brasil_0132",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538917397
+  },
+  {
+    "id": "txn_andes_pay_0049",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "bank_transfer",
+    "status": "declined",
+    "declineReason": "card_expired",
+    "timestamp": 1779538930382
+  },
+  {
+    "id": "txn_localpay_brasil_0011",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538931554
+  },
+  {
+    "id": "txn_localpay_brasil_0050",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "issuer_timeout",
+    "timestamp": 1779538938363
+  },
+  {
+    "id": "txn_localpay_brasil_0248",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779538957193
+  },
+  {
+    "id": "txn_localpay_brasil_0145",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779538974755
+  },
+  {
+    "id": "txn_mexico_trust_0004",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779539011380
+  },
+  {
+    "id": "txn_localpay_brasil_0260",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779539020493
+  },
+  {
+    "id": "txn_andes_pay_0078",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779539055816
+  },
+  {
+    "id": "txn_andes_pay_0139",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779539084663
+  },
+  {
+    "id": "txn_localpay_brasil_0273",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779539107485
+  },
+  {
+    "id": "txn_andes_pay_0091",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779539110061
+  },
+  {
+    "id": "txn_andes_pay_0120",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779539111634
+  },
+  {
+    "id": "txn_andes_pay_0061",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779539178985
+  },
+  {
+    "id": "txn_localpay_brasil_0199",
+    "providerId": "localpay_brasil",
+    "country": "BR",
+    "paymentMethod": "credit_card",
+    "status": "declined",
+    "declineReason": "insufficient_funds",
+    "timestamp": 1779539186916
+  },
+  {
+    "id": "txn_andes_pay_0133",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779539218914
+  },
+  {
+    "id": "txn_mexico_trust_0022",
+    "providerId": "mexico_trust",
+    "country": "MX",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779539255650
+  },
+  {
+    "id": "txn_andes_pay_0125",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "credit_card",
+    "status": "approved",
+    "timestamp": 1779539270453
+  },
+  {
+    "id": "txn_andes_pay_0138",
+    "providerId": "andes_pay",
+    "country": "PE",
+    "paymentMethod": "debit_card",
+    "status": "approved",
+    "timestamp": 1779539320114
+  }
+]
