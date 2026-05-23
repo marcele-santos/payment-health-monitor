@@ -6,12 +6,6 @@ Built for the Yuno engineering challenge: *The Lima Flash Sale Collapse*.
 
 **Stack:** TypeScript · Next.js 16 (App Router) · Upstash Redis · Vitest · Vercel
 
-> **Note for reviewers:** The seeded scenario is anchored to seed-time. If `/api/health` on the deployed instance returns all providers `critical` with `low_volume`/`low_auth_rate`, the dataset has aged past the 30min window. Refresh with:
-> ```bash
-> npm run seed -- https://payment-health-monitor.vercel.app
-> ```
-> The seed is deterministic (`seed=42`), so re-runs produce the same scenario with fresh timestamps.
-
 ---
 
 ## Problem
@@ -30,35 +24,37 @@ It also tracks each provider's historical baseline and flags anomalous current p
 
 ## Run it
 
-### Prerequisites
-- Node 20+
-- An Upstash Redis instance (free tier works)
 
-### Local
+### Just check the deployed instance (zero setup)
+
+```bash
+curl https://payment-health-monitor.vercel.app/api/health | jq
+```
+
+If everything comes back `critical` with stale `low_volume`/`low_auth_rate`, the seeded dataset has aged past the 30min window. Refresh:
+
+```bash
+npm install
+npm run seed -- https://payment-health-monitor.vercel.app
+```
+
+### Run locally
+
+Prerequisites: Node 20+, an Upstash Redis instance, `jq` for pretty output.
+
+1. Provision Upstash Redis via the [Vercel Marketplace](https://vercel.com/marketplace/upstash) (one click) or directly at [upstash.com](https://upstash.com). Either gives you `KV_REST_API_URL` and `KV_REST_API_TOKEN`.
+
+2. Clone and configure:
 
 ```bash
 git clone https://github.com/marcele-santos/payment-health-monitor
 cd payment-health-monitor
 npm install
 
-# Copy KV_REST_API_URL and KV_REST_API_TOKEN from Upstash console
 cat > .env.local <<EOF
 KV_REST_API_URL=https://YOUR-DB.upstash.io
 KV_REST_API_TOKEN=YOUR-TOKEN
 EOF
-
-npm run dev          # Terminal 1
-npm run seed         # Terminal 2 — generates and posts ~520 realistic txns
-curl http://localhost:3000/api/health | jq
-```
-
-### Deployed
-
-`https://payment-health-monitor.vercel.app` *(replace with your URL)*
-
-To seed the deployed instance:
-```bash
-npm run seed -- https://payment-health-monitor.vercel.app
 ```
 
 ---
