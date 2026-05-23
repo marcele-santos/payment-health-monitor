@@ -139,6 +139,17 @@ curl http://localhost:3000/api/health/localpay_brasil | jq
 
 Valid provider IDs: `localpay_brasil`, `andes_pay`, `mexico_trust`, `colombia_pagos`.
 
+### `GET /api/decline-reasons` (Stretch C)
+Top decline reasons per provider — helps diagnose WHY a provider is degrading.
+
+```bash
+curl 'http://localhost:3000/api/decline-reasons?window=3600&top=5' | jq
+```
+
+Returns top-K decline reasons per provider over a configurable window. During the LocalPay Brasil collapse, `issuer_timeout` dominates (~55%) — the signature of a connectivity-degrading PSP, distinct from the normal pattern of `insufficient_funds`-dominant declines on healthy providers.
+
+Query params: `?window=<seconds>` (60–7200, default 3600), `?top=<n>` (1–7, default 5).
+
 ---
 
 ## What the seed data demonstrates
@@ -224,7 +235,6 @@ On Vercel serverless, each route invocation may land on a different instance —
 3. Alert state machine with `resolvedAt` + cooldown
 4. Stretch A — country × method breakdown
 5. Stretch B — user-configurable alert thresholds API
-6. Stretch C — decline reason aggregation per provider
 
 ---
 
